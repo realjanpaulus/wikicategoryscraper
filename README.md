@@ -1,6 +1,6 @@
 # wikicategoryscraper
 
-Scrape wikipedia pages by category. To scrape the desired categories, you have to create a json file in the `data` directory with the following format:
+Scrape Wikipedia pages by category. To scrape the desired categories, you have to create a json file in the `data` directory with the following format:
 
 ```
 {
